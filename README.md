@@ -9,6 +9,7 @@ The goal is to provide supply chain directors and hospital administrators with a
 *(Interactive dashboard providing daily insights on drug availability, impacted companies, and therapeutic categories).*
 
 ![Dashboard Preview](dashboard.png)
+![Dashboard Preview](dashboard2.png)
 
 ## Architecture & Tech Stack
 This project follows a modern ETL (Extract, Transform, Load) cloud architecture:
