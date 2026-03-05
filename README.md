@@ -8,6 +8,8 @@ The goal is to provide supply chain directors and hospital administrators with a
 ## Power BI Dashboard
 *(Interactive dashboard providing daily insights on drug availability, impacted companies, and therapeutic categories).*
 
+[**Click here to view the Interactive Dashboard**](https://app.powerbi.com/view?r=eyJrIjoiY2ZhNjIxNzYtMGFjOC00N2Q4LTliN2QtNjMyNTNmMjU0ZTFmIiwidCI6ImZlMDY5YmZhLWM4ZjYtNGEzNy04MDY0LTQ5ZjllYmNkMWQ5NiJ9&pageName=caeaf55598e05cb90301)
+
 ![Dashboard Preview](dashboard.png)
 ![Dashboard Preview](dashboard2.png)
 
